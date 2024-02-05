@@ -15,3 +15,12 @@ value2 = value3;
 
 console.log('swap', value1);
 console.log('swap', value2);
+
+
+// Enter x, y
+// Print x, y
+x =12; y=13;
+x = x + y
+y = x - y
+x = x - y
+console.log('swap',  x, y);
